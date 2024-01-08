@@ -2,7 +2,7 @@
 
 ## Intro
 This is my reading notes page. 
-- **- NAME:** Mak Trnka *(He/Him)* 
+- **- Name:** Mak Trnka *(He/Him)* 
 * **- GitHub Link:** [Makster04](https://github.com/Makster04)
 
 ## “Growth Mindset”
