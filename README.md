@@ -1,4 +1,4 @@
-# [reading-notes] (https://makster04.github.io/reading-notes/)
+# [reading-notes](https://makster04.github.io/reading-notes/)
 
 This is my reading notes! 
 
