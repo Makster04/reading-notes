@@ -16,4 +16,4 @@ This is the link if you want to see all styles of [Markdown](https://docs.github
 * ***2)*** Here are *Italics*. 
 + ***3)*** ~~This is striken!~~  
 - ***4)*** ***This is if I want to bold the text and make it Italics***
-* ***5)*** This is a <sup>superscript</sup>, for example wanting to put "st" on the top right of the "1"(1<sup>st</sup>)
+* ***5)*** This is a <sup>superscript</sup>, for example wanting to put "st" on the top right of the "1"*(1<sup>st</sup>)*
