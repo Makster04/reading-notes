@@ -7,7 +7,7 @@ I am **Mak Trnka** *(He/Him)* and my github page is https://github.com/Makster04
 
 ## “Growth Mindset”
 ![image](https://github.com/Makster04/reading-notes/assets/86382359/55ed9da6-63f0-493a-bc13-170e287637d3)
-### About Mindset
+### About "Growth Mindset"
 - **1) "Growth Mindset" Definition:** is the belief that the more you work, learn, and study, the more you empower your abilities and skills in whatever you're studying or doing. 
 * **2) How to Keep Yourself in a "Growth Mindset":** To keep myself in a growth mindset, I have to ***Apply Myself to Challenges***, since that helps with resiliance and motivation, ***Embrace Failures***, since the more you repeat it, the more you learn the task in had, and ***Do Not Compare my Level of Skill to Others*** because that may put you in the stage of fear where you'll have trouble trying to focus on the task of hand you want to empower in.
 
