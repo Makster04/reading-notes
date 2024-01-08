@@ -3,11 +3,11 @@
 This is my reading notes! 
 ## 5 Examples of Markdown
 
-***1.*** Here is some **bold** text. This is also bold __bold__. 
-***2.*** Here are *Italics*. 
-***3.*** ~~This is striken!~~  
-***4.*** ***This is if I want to bold the text and make it Italics***
-***5.*** This is a <sup>superscript</sup>, for example wanting to put "st" on the top right of the "1".
+- ***1.*** Here is some **bold** text. This is also bold __bold__. 
+* ***2.*** Here are *Italics*. 
++ ***3.*** ~~This is striken!~~  
+- ***4.*** ***This is if I want to bold the text and make it Italics***
+* ***5.*** This is a <sup>superscript</sup>, for example wanting to put "st" on the top right of the "1".
 
 ## “Growth Mindset”
 
