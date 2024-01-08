@@ -3,7 +3,7 @@
 This is my reading notes! 
 
 ## Intro
-I am **Mak Trnka** *(He/Him)* and my github page is https://github.com/Makster04 
+I am **Mak Trnka** *(He/Him)* and my github page is [Makster04](https://github.com/Makster04)
 
 ## “Growth Mindset”
 ![image](https://github.com/Makster04/reading-notes/assets/86382359/55ed9da6-63f0-493a-bc13-170e287637d3)
