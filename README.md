@@ -16,4 +16,4 @@ I am **Mak Trnka** *(He/Him)* and my github page is https://github.com/Makster04
 * ***2)*** Here are *Italics*. 
 + ***3)*** ~~This is striken!~~  
 - ***4)*** ***This is if I want to bold the text and make it Italics***
-* ***5)*** This is a <sup>superscript</sup>, for example wanting to put "st" on the top right of the "1".
+* ***5)*** This is a <sup>superscript</sup>, for example wanting to put "st" on the top right of the "1". Here, 1<sup>st</sup>
