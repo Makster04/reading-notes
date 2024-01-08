@@ -12,7 +12,7 @@ I am **Mak Trnka** *(He/Him)* and my github page is https://github.com/Makster04
 * **2) How to Keep Yourself in a "Growth Mindset":** To keep myself in a growth mindset, I have to ***Apply Myself to Challenges***, since that helps with resiliance and motivation, ***Embrace Failures***, since the more you repeat it, the more you learn the task in had, and ***Do Not Compare your Level of Skill to Others*** because that may put you in the stage of fear where you'll have trouble trying to focus on the task of hand you want to empower in.
 
 ## 5 Examples of Markdown
-This is the link if you want to see all styles https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+This is the link if you want to see all styles https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax. Here are five examples though:
 - ***1)*** Here is some **bold** text.
 * ***2)*** Here are *Italics*. 
 + ***3)*** ~~This is striken!~~  
