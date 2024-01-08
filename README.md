@@ -13,7 +13,7 @@ I am **Mak Trnka** *(He/Him)* and my github page is [Makster04](https://github.c
 
 ## 5 Examples of Markdown
 ### Examples
-This is the link if you want to see all styles https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax. Here are five examples though:
+This is the link if you want to see all styles of [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Here are five examples though:
 - ***1)*** Here is some **bold** text.
 * ***2)*** Here are *Italics*. 
 + ***3)*** ~~This is striken!~~  
