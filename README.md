@@ -1,7 +1,7 @@
 # reading-notes
 
 This is my reading notes! 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]![image](https://github.com/Makster04/reading-notes/assets/86382359/55ed9da6-63f0-493a-bc13-170e287637d3)
+![image](https://github.com/Makster04/reading-notes/assets/86382359/55ed9da6-63f0-493a-bc13-170e287637d3)
 
 ## Intro
 I am **Mak Trnka** *(He/Him)* and my github page is https://github.com/Makster04 
