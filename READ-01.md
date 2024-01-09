@@ -17,8 +17,9 @@ This is the link if you want to see all styles of [Markdown](https://docs.github
 - ***4)*** ***This is if I want to bold the text and make it Italics***
 * ***5)*** This is a <sup>superscript</sup>, for example wanting to put "st" on the top right of the "1". *(1<sup>st</sup>)*
 
-![image](https://github.com/Makster04/reading-notes/assets/86382359/55ed9da6-63f0-493a-bc13-170e287637d3)
+
 ### About "Growth Mindset"
+![image](https://github.com/Makster04/reading-notes/assets/86382359/55ed9da6-63f0-493a-bc13-170e287637d3)
 - ***1)*** **"Growth Mindset" Definition:** Its the belief that the more you work, learn, and study, the more you empower your abilities and skills in whatever you're studying or doing. 
 * ***2)*** **Three Pillars of a "Growth Mindset":** To keep myself in a growth mindset, I have to:
 - ***- Apply Myself to Challenges***, since that helps with resilience and motivation,
