@@ -11,6 +11,6 @@
 * ***cd projects***: Changes the current working directory to the "projects" directory.
 - ***mkdir new-project***: Creates a new directory named "new-project" inside the "projects" directory.
 + ***touch new-project/newfile.md***: Creates an empty file named _"newfile.md"_ inside the "new-project" directory.
-***cd ..***: Moves up one level in the directory structure.
-* ***ls projects/new-project***: Lists the contents of the "new-project" directory within the "projects" directory.
-* To summarize, overall this will create a new directory named _"new project"_
+* ***cd ..***: Moves up one level in the directory structure.
+- ***ls projects/new-project***: Lists the contents of the "new-project" directory within the "projects" directory.
++ To summarize, overall this will create a new directory named _"new project"_
