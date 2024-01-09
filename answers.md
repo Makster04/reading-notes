@@ -1,9 +1,9 @@
 ## MARKDOWN
 1. **What is Markdown?** Markdown is a source to form and edit plain text. For example, you may use Markdown Syntax to format text on Repositories you have on GitHub and such.
 1. **Why do we use Markdown?** Markdown is needed so we can make texts more readable, understandable, and useful for the learners. It makes it way easier for learners to find answers to certain questions they may have and/or find them the most important texts in the writing.
-1. **What symbol will create a heading in Markdown?** The Hashtag Symbol ,**#**, will create the heading. The number of Hashtags determines how bigger the header would be
-* 1. **How many do you need to create the largest heading?** In order to make the largest header, you'd only need one **#**
-- 2. **How many do you need to create the smallest heading?** In order to make the smallest header, you'd need up to six **#**
+1. **What symbol will create a heading in Markdown?** The Hashtag Symbol ,**#**, will create the heading. The number of Hashtags determines how bigger the header would be.
+* **How many do you need to create the largest heading?** In order to make the largest header, you'd only need one **#**
+- **How many do you need to create the smallest heading?** In order to make the smallest header, you'd need up to six **#**
 1. **When making text bold or italicized for emphasis, it is best practice to use which symbol?** In order to make it **bold** you'd need to place two asteriks(**) at the beginning and end of whatever text you want to make bold. In order to *italicize* it, you'd need to do the same thing, but instead use one asterik(*) placing them from the begining and end of whichever text you want to italicize.
 1. **How do you create a link with Markdown?** To create a link like this, [Reading Notes](https://makster04.github.io/reading-notes/), you need to put the name of your website between two square brackets ([]) and without any space, inside two parentheses, put the name of the link right next to the square brackets. 
 1. **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?** In order to make an unordered bulleted list, line by line, place one of these symbols (-, *, or +), at the begining of the text.
