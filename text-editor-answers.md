@@ -13,4 +13,4 @@
 + ***touch new-project/newfile.md***
 * ***cd ..***
 - ***ls projects/new-project***
-* Creates a new directory called _"new-project"_ inside it **>** creating an empty file named _"newfile.md"_ within _"new-project,"_ going back to the parent directory **>** listing the contents of the _"new-project"_ directory **>** ls command will display the "newfile.md" within the _"new-project"_ directory.
+* Creates a new directory called _"new-project"_ inside it **>>>** creating an empty file named _"newfile.md"_ within _"new-project,"_ going back to the parent directory **>>>** listing the contents of the _"new-project"_ directory **>>>** ls command will display the "newfile.md" within the _"new-project"_ directory.
