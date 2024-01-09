@@ -8,9 +8,9 @@
 * ***mkdir***: Stands for _"making directory"_, it is used to create a directory.
 * ***touch***: Stands for what its name is, it is used to create an empty file with the specified name. It also updates file's access & modification timestamps of files that already exist. 
 1. **Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? _(Arguments are extra instructions given to a command.)_**
-* ***cd projects***
-- ***mkdir new-project***
-+ ***touch new-project/newfile.md***
-* ***cd ..***
-- ***ls projects/new-project***
-* Creates a new directory called _"new-project"_ inside it **>>>** creating an empty file named _"newfile.md"_ within _"new-project,"_ going back to the parent directory **>>>** listing the contents of the _"new-project"_ directory **>>>** ls command will display the "newfile.md" within the _"new-project"_ directory.
+* ***cd projects***: Changes the current working directory to the "projects" directory.
+- ***mkdir new-project***: Creates a new directory named "new-project" inside the "projects" directory.
++ ***touch new-project/newfile.md***: Creates an empty file named _"newfile.md"_ inside the "new-project" directory.
+***cd ..***: Moves up one level in the directory structure.
+* ***ls projects/new-project***: Lists the contents of the "new-project" directory within the "projects" directory.
+* To summarize, overall this will create a new directory named _"new project"_
