@@ -6,6 +6,7 @@
 * **- GitHub Link:** [Makster04](https://github.com/Makster04)
 
 ## About
+This source is about all I have been learning throughout my course on Software Development
 
 ## Table of Contents
 
