@@ -10,4 +10,3 @@
 1. **What is the command to send your changed files to Github?**
 =======
 1. **What is the command to send your changed files to Github?** Command needed **"$ git push"**
->>>>>>> aca212dea4d913f4490a859c95d9b6a1c8ab41b8
