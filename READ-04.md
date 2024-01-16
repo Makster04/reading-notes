@@ -9,3 +9,4 @@
 * ***<.section>***: Defines a section of a document.
 - ***<.aside>***: Represents content that is tangentially related to the content around it.
 + ***<.footer>***: Represents the footer of a document or a section.
+5. **EXAMPLE:** https://github.com/codefellows/seattle-code-102d59/blob/main/class-04/demo/index.html
