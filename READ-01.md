@@ -1,4 +1,4 @@
-# LMARKDOWN
+# MARKDOWN
 1. **What is Markdown?** Markdown is a source to form and edit plain text. For example, you may use Markdown Syntax to format text on Repositories you have on GitHub and such.
 1. **Why do we use Markdown?** Markdown is needed so we can make texts more readable, understandable, and useful for the learners. It makes it way easier for learners to find answers to certain questions they may have and/or find them the most important texts in the writing.
 1. **What symbol will create a heading in Markdown?** The Hashtag Symbol ,**#**, will create the heading. The number of Hashtags determines how bigger the header would be.
