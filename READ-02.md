@@ -1,4 +1,4 @@
-# Choosing a Text Editor
+# [Choosing a Text Editor](https://github.com/codefellows/seattle-code-102d59/tree/main/class-02)
 1. **What are four important features to look for in a text editor?** Most importnat features to look for in a text editor is **(1) _code completion_**; **(2) _syntax
  highlighting_**; **(3) _a nice variety of themes_**; & **(4) _the ability to choose from a healthy selection of extensions available when you need them_**
 1. **What do the following commands do?**
