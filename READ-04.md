@@ -1,4 +1,4 @@
-# STRUCTURING WEBPAGES WITH HTML
+# HTML
 1. **What is HTML and why do we use it?** HTML is the most used building block of the Web, which defines the meaning and structure of web content. Therefore, we use it in order to provide ways to organize & present content better.
 2. **What are the 3 main parts of an HTML element?** Opening Tag, Content, & Closing Tag
 3. **What is it called when you give an element extra information?** When you give an element extra information, it is called an ***attribute***
