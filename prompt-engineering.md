@@ -1,6 +1,6 @@
 # Prompt Engineering #
 1. ## My AI Chat: ## https://chat.openai.com/?sso= & https://bard.google.com/chat
-2. ## Question to AI: ## Why do we need to learn JavaScript if we have Python?
+2. ## Question to AI: Why do we need to learn JavaScript if we have Python?
 * JavaScript and Python serve different purposes and are used in different contexts within the field of programming.
 * **Web Development:** JavaScript is essential for web development, particularly on the client side. It runs directly in web browsers and is used to make web pages interactive and dynamic. Python, on the other hand, is often used on the server side for web development (e.g., with frameworks like Django or Flask).
 * **Client-Side vs. Server-Side:** JavaScript is mainly a client-side scripting language, executing code in the user's browser to manipulate the DOM and handle user interactions. Python, while it can be used on the client side (e.g., with frameworks like Brython), is more commonly employed on the server side for handling server logic and database interactions.
