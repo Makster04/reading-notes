@@ -10,10 +10,11 @@
 * Through TCP/IP, data finds its way.
 * Internet's embrace, a network's glide,
 * In bits and bytes, a seamless tide.
-2. **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
-3. **How can you find images to add to a Website?**
-4. **How do you create a String vs a Number in JavaScript?**
+2. **Describe how HTML, CSS, and JS files are “parsed” in the browser.** The browser parses the HTML file first **-->** Sends requests back to the server for any CSS files it has found from <link> elements and/or any JavaScript files it has found from <script> elements **-->** Then it parses the CSS and JavaScript.
+3. **How can you find images to add to a Website?** You can go to *Google Images*
+4. **How do you create a String vs a Number in JavaScript?** For a string you 
 5. **What is a Variable and why are they important in JavaScript?**
+  
 ## Introduction to HTML
 1. What is an HTML attribute?
 2. Describe the Anatomy of an HTMl element.
