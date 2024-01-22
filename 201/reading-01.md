@@ -5,7 +5,7 @@
 * A browser sends a message, a quest to derive.
 * HTTP request echoes, a plea to deliver,
 * Website's essence, a digital river.
-* 
+* (Thanks to Chat GPT)
 * Client and server, a dance they play,
 * Through TCP/IP, data finds its way.
 * Internet's embrace, a network's glide,
