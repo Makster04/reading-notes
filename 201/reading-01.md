@@ -20,8 +20,8 @@
 2. **Describe the Anatomy of an HTML element.** Understanding the anatomy of HTML elements is essential for creating well-structured and valid HTML documents.
 3. **What is the Difference between <article> and <section> element tags?**  <article> is specifically for standalone and distributable content, while <section> is a more general container for grouping related content on a page. 
 4. **What Elements does a “typical” website include?**
-* - <!DOCTYPE HTML>: Defines the document type and version of HTML being used.
-* - <HTML>: The root element that wraps all the content on the page.
+* - <.!DOCTYPE HTML.>: Defines the document type and version of HTML being used.
+* - <.HTML.>: The root element that wraps all the content on the page.
 * - <.head.>: Contains meta-information about the document, such as the title, character set, stylesheets, and scripts.
 * - <.body.>: Contains the main content of the webpage, including text, images, links, and other elements.
 * - <.header.>: Represents the header of the webpage, often containing a logo, navigation menu, and other header-related content.
