@@ -1,4 +1,5 @@
-# READING (Relook at 102)
+# [102 OVERVIEW](https://github.com/codefellows/seattle-code-201d108/tree/main/class-01)
+
 ## Getting Started
 1. **Compose a short poem describing how HTTP sends data between computers.**
 * In digital realms where connections thrive,
