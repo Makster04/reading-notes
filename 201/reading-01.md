@@ -22,16 +22,16 @@
 4. **What Elements does a “typical” website include?**
 * - <!DOCTYPE HTML>: Defines the document type and version of HTML being used.
 * - <HTML>: The root element that wraps all the content on the page.
-* - <head>: Contains meta-information about the document, such as the title, character set, stylesheets, and scripts.
-* - <body>: Contains the main content of the webpage, including text, images, links, and other elements.
-* - <header>: Represents the header of the webpage, often containing a logo, navigation menu, and other header-related content.
-* - <nav>: Contains navigation links or menus.
-* - <main>: Wraps the main content of the webpage, excluding headers, footers, and sidebars.
-* - <article>: Represents a self-contained piece of content, such as a blog post, article, or news story.
-* - <section>: Groups related content together, providing a way to structure and organize the page.
-* - <footer>: Contains footer-related content, often including copyright information, links, or contact details.
-* - <p>: Represents a paragraph of text.
-* - <h1>, <h2>, ..., <h6>: Heading elements, used to define headings of various levels.
+* - <.head.>: Contains meta-information about the document, such as the title, character set, stylesheets, and scripts.
+* - <.body.>: Contains the main content of the webpage, including text, images, links, and other elements.
+* - <.header.>: Represents the header of the webpage, often containing a logo, navigation menu, and other header-related content.
+* - <.nav.>: Contains navigation links or menus.
+* - <.main.>: Wraps the main content of the webpage, excluding headers, footers, and sidebars.
+* - <.article.>: Represents a self-contained piece of content, such as a blog post, article, or news story.
+* - <.section.>: Groups related content together, providing a way to structure and organize the page.
+* - <.footer.>: Contains footer-related content, often including copyright information, links, or contact details.
+* - <.p.>: Represents a paragraph of text.
+* - <.h1.>, <.h2.>, ..., <.h6.>: Heading elements, used to define headings of various levels.
 5. **How does metadata influence Search Engine Optimization?** 
 Metadata plays a big role in SEO by providing info about the content of a webpage. It helps search engines understand the context and relevance of a page's content
 6. **How is the <meta> HTML tag used when specifying metadata?** Metadata provides info about the document, such as character encoding, viewport settings, and other important details that browsers and search engines use to interpret the content.
@@ -39,7 +39,7 @@ Metadata plays a big role in SEO by providing info about the content of a webpag
 ### Miscellaneous
 1. **What is the first step to designing a Website?** Define what you want to accomplish with it.
 2. **What is the most important question to answer when designing a Website?** What Exaxtly do I want to accomplish?
-3. **Why should you use an <h1> element over a <span> element to display a top level heading?** Its more well-structured, meaningful, and accessible web content.
+3. **Why should you use an <.h1.> element over a <.span.> element to display a top level heading?** Its more well-structured, meaningful, and accessible web content.
 4. **What are the benefits of using semantic tags in our HTML?**
 * - Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
 * - Screen readers can use it as a signpost to help visually impaired users navigate a page
