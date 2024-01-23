@@ -1,4 +1,4 @@
-<h1>Readings: Basics of HTML, CSS & JS</h1>
+<h1>[Readings: Basics of HTML, CSS & JS](https://github.com/codefellows/seattle-code-201d108/tree/main/class-02)</h1>
 
 # Reading
 ## Continue Reading Introduction to HTML
