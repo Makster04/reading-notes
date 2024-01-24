@@ -1,4 +1,5 @@
 # [Readings: Basics of HTML, CSS & JS](https://github.com/codefellows/seattle-code-201d108/tree/main/class-02)
+These are very important to learn as they're the key fundemental languages used to develop websites
 
 # Reading
 ## Continue Reading Introduction to HTML
@@ -27,3 +28,7 @@
 2. **What is the use of an else if?** Allows you to check additional conditions. For example, it may provide alternative blocks, like if the condition is false.
 3. **List 3 different types of comparison operators.** Equality Operator (.==.), Greater than Operator (.>.), Less than Operator (.<.)
 4. **What is the difference between the logical operator .&&. and .||.?** The .&&. is for "And", where it only returns to true if both conditions on the left and right of the operator are true. On the other hand .||. is for "Or', where it only returns true if at least one of the conditions is true.
+
+## Things I want to know more about
+I want to know more about... (UPDATES)
+
