@@ -22,5 +22,8 @@
 ## Arrays. Operators and Expressions. Conditionals. Loops.
 1. **What data types can you store inside of an Array?** Arrays can store a variety of data types (numbers, strings, booleans, objects, functions, & other arrays).
 2. **Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?** Yes, its a valid array. It's a two-dimensional one including subarrays, each representing info about an individual. To access values, you have to use indices for both the outer and inner arrays.
-3. **List five shorthand operators for assignment in javascript and describe what they do.** 
-4. **Read the code below and evaluate the last expression and explain what the result would be and why.** 
+3. **List five shorthand operators for assignment in javascript and describe what they do.**
+   * Assignment (=):
+
+The basic assignment operator assigns the value on the right to the variable on the left.
+5. **Read the code below and evaluate the last expression and explain what the result would be and why.** 
