@@ -31,3 +31,5 @@
 4. **Read the code below and evaluate the last expression and explain what the result would be and why.** This would result into 10dog because its asking us to add A, which is 10, to B, which is false, to c which is the word dog.
 5. **Describe a real-world example of when a conditional statement should be used in a JavaScript program.** Calculate Weather conditions and temperatures.
 6. **Give an example of when a Loop is useful in JavaScript.** A time a loop is useful is when you need to repat over an array to perform a specific action on each element
+
+## Things I want to know more about
