@@ -1,3 +1,4 @@
+# [Readings: Color, Image, Text](https://github.com/codefellows/seattle-code-201d108/tree/main/class-05)
 # HTML Media
 ## Using Images In HTML. Read Common Image Types and Choosing Image Formats.
 
