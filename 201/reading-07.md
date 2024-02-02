@@ -5,9 +5,9 @@
 ## HTML Table Basics
 1. **Why should tables not be used for page layouts?** Tables are intended for displaying tabular data, not for structuring page layouts. 
 2. **List and describe 3 different semantic HTML elements used in an HTML <table>.**
-* ***<thead>:*** Represents the header of a table. It is used to group the header content in a table.
-* ***<tbody>:*** Groups the body content in a table. It is separate from the header and footer and contains the main content rows.
-* ***<tfoot>:*** Represents the footer of a table. It is used to group the footer content in a table.
+* ***<.thead.>:*** Represents the header of a table. It is used to group the header content in a table.
+* ***<.tbody.>:*** Groups the body content in a table. It is separate from the header and footer and contains the main content rows.
+* ***<.tfoot.>:*** Represents the footer of a table. It is used to group the footer content in a table.
 
 ## Introducing Constructors
 1. **What is a constructor and what are some advantages to using it?** A special method in a class or object that is automatically called when an instance of the class is created. The advantages of using it include code reusability and ensuring that an object is in a valid state upon creation.
