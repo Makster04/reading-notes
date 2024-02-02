@@ -1,4 +1,4 @@
-# (Readings: Problem Domain, Objects, and the DOM)[https://github.com/codefellows/seattle-code-201d108/tree/main/class-06]
+# [Readings: Problem Domain, Objects, and the DOM](https://github.com/codefellows/seattle-code-201d108/tree/main/class-06)
 ## JavaScript Object Basics
 1. **How would you describe an object to a non-technical friend you grew up with?**  An object is like a container holding info. Think of a car as an object - properties like color, model, and speed. Each property provides specific details.
 2. **What are some advantages to creating object literals?** Object literals organize data, enhancing readability, organization, reusability, and easy modification. They group related information and simplify code maintenance.
