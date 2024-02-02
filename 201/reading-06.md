@@ -10,6 +10,6 @@
 1. **What is the DOM?** The DOM, or Document Object Model, is a programming interface for web documents. It represents the structure of HTML or XML documents as a tree of objects, enabling dynamic access and manipulation of document content through programming languages like JavaScript.
 2. **Briefly describe the relationship between the DOM and JavaScript.** JavaScript interacts with the DOM, acting as the bridge between a web page and its dynamic behavior. It allows scripts to access, modify, and update the content and structure of a document, enabling dynamic and interactive web experiences.
 
-
+## Things I want to know
 
 
