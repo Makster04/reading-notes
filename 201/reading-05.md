@@ -16,7 +16,5 @@
 4. **What do font-size, font-weight, and font-style do to HTML text elements?** Font-size adjusts text size, font-weight controls thickness, and font-style sets italic or normal styles in HTML text elements.
 5. **Describe two ways you could add spacing around the characters displayed in an h1 element.** Add spacing to h1 characters using CSS properties: letter-spacing or margin, providing visual separation for a cleaner appearance.
 6. **If you have any questions or comments from the readings, post them in the class Slack channel!** I got it!
-
-
-
+## Things I want to Know
 
