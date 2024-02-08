@@ -1,4 +1,4 @@
-# [Readings: Local Storage and How to Store it](https://github.com/codefellows/seattle-code-201d108/tree/main/class-13)
+# [Readings: Local Storage and How to Store it](https://github.com/codefellows/seattle-code-201d108/tree/main/class-14)
 
 ## CSS Transforms
 1. **What does a CSS transform allow the developer to do to an element?** CSS transform allows developers to modify the appearance and layout of an element by applying transformations like scaling, rotating, skewing, and translating without changing the actual document layout.
