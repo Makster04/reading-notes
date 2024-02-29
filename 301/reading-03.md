@@ -9,15 +9,15 @@
 ## [The Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 1. **What is the spread operator?** The spread operator (...) is a syntactic feature in JavaScript used for expanding elements, such as arrays or objects, into places where multiple elements or key-value pairs are expected.
 2. **List 4 things that the spread operator can do.**
-* Expand arrays into individual elements.
-* Copy arrays and objects.
-* Merge arrays and objects.
-* Pass elements of an iterable (like an array) as arguments to a function or constructor.
+* - Expand arrays into individual elements.
+* - Copy arrays and objects.
+* - Merge arrays and objects.
+* - Pass elements of an iterable (like an array) as arguments to a function or constructor.
 4. **Give an example of using the spread operator to combine two arrays.**
-// const array1 = [1, 2, 3];
-// const array2 = [4, 5, 6];
-// const combinedArray = [...array1, ...array2];
-// console.log(combinedArray); // Output: [1, 2, 3, 4, 5, 6]
+* const array1 = [1, 2, 3];
+* const array2 = [4, 5, 6];
+* const combinedArray = [...array1, ...array2];
+* console.log(combinedArray); // Output: [1, 2, 3, 4, 5, 6]
 5. **Give an example of using the spread operator to add a new item to an array.**
 6. **Give an example of using the spread operator to combine two objects into one.**
 
