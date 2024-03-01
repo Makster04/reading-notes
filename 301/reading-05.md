@@ -1,4 +1,5 @@
-# [Readings: React and Forms](https://github.com/codefellows/seattle-code-301d108/tree/main/class-04)
+# [Readings: Putting it all together](https://github.com/codefellows/seattle-code-301d108/tree/main/class-05)
+
 
 ## [React Docs - Thinking in React](https://react.dev/learn/thinking-in-react)
 1. **What is the single responsibility principle and how does it apply to components?** The single responsibility principle states that a component should ideally only do one thing. In React, this means each component should focus on rendering UI based on the data it receives.
