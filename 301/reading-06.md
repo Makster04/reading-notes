@@ -1,4 +1,4 @@
-# [Readings: Putting it all together](https://github.com/codefellows/seattle-code-301d108/tree/main/class-05)
+# [Readings: Putting it all together](https://github.com/codefellows/seattle-code-301d108/tree/main/class-06)
 
 
 ## [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
