@@ -23,4 +23,7 @@
 * Work environment readiness
 2. **In your experience, which of these reasons have you found most beneficial?** From my experience, I believe engaging in collaboration and social skills I have found most useful. With those benefits, resourcefulness, and assistance is key.
 3. **How does pair programming work?** Pair programming involves two programmers working together at one workstation. One programmer, the "driver," writes code, while the other, the "observer" or "navigator," reviews each line of code as it's typed. They switch roles frequently.
+
+## Things I want to know more about
+
   
