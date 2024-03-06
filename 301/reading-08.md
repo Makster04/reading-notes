@@ -3,26 +3,31 @@
 
 ## [API Design Best Practices](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
-1. **What is node.js?** Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine that allows developers to run JavaScript code on the server-side.
-2. **In your own words, what is Chrome’s V8 JavaScript Engine?** Chrome's V8 JavaScript engine is a high-performance open-source JavaScript engine developed by Google that compiles and executes JavaScript code in the Chrome browser. It's known for its speed and efficiency in executing JavaScript code.
-3. **What does it mean that node is a JavaScript runtime?** It means that Node.js provides an environment for executing JavaScript code outside of the browser, allowing developers to run JavaScript on servers or any other environments where traditionally only server-side languages like Python or Ruby were used.
-4. **What is npm?** npm (Node Package Manager) is the default package manager for Node.js. It allows developers to easily install, manage, and share JavaScript packages or libraries.
-5. **What version of node are you running on your machine?** To find out the version of Node.js installed on your machine, you can use the command node -v in your terminal or command prompt.
-6. **What version of npm are you running on your machine?** To find out the version of npm installed on your machine, you can use the command npm -v in your terminal or command prompt.
-7. **What command would you type to install a library/package called ‘jshint’?** To install the 'jshint' package using npm, you would type the following command in your terminal or command prompt: npm install jshint
-8. **What is node used for?** Node.js is used for building scalable network applications, server-side web applications, real-time applications, and APIs. It's commonly used in web development for tasks like handling HTTP requests, managing databases, and building APIs.
+1. **What does REST stand for?** REST stands for Representational State Transfer.
+2. **REST APIs are designed around a ____.** **REST APIs are designed around a resource.
 
-## [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+3. **What is an identifier of a resource? Give an example.** An identifier of a resource is a unique reference to that resource. For example, in a RESTful API for managing books, an identifier for a specific book could be its ISBN number, like 978-0132350884.
 
-1. **What are the 6 reasons for pair programming?**
-* Greater efficiency
-* Engaged collaboration
-* Learning from fellow students
-* Social skills
-* Job interview readiness
-* Work environment readiness
-2. **In your experience, which of these reasons have you found most beneficial?** From my experience, I believe engaging in collaboration and social skills I have found most useful. With those benefits, resourcefulness, and assistance is key.
-3. **How does pair programming work?** Pair programming involves two programmers working together at one workstation. One programmer, the "driver," writes code, while the other, the "observer" or "navigator," reviews each line of code as it's typed. They switch roles frequently.
+4. **What are the most common HTTP verbs?** The most common HTTP verbs are GET, POST, PUT, PATCH, and DELETE.
+
+5. **What should the URIs be based on?** URIs should be based on resources.
+
+6. **Give an example of a good URI.** An example of a good URI could be /books/{book_id} where {book_id} is the identifier of a specific book, for example, /books/978-0132350884.
+
+7. **What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?** Having a 'chatty' web API means that the API requires a large number of requests to perform a single operation due to fine-grained resources. This is generally considered a bad thing as it increases network overhead and reduces performance.
+
+8. **What status code does a successful GET request return?** A successful GET request returns a status code 200 (OK).
+
+9. **What status code does an unsuccessful GET request return?** An unsuccessful GET request returns a status code 404 (Not Found) if the resource is not found.
+
+10. **What status code does a successful POST request return?** A successful POST request returns a status code 201 (Created).
+
+11. **What status code does a successful DELETE request return?** A successful DELETE request returns a status code 204 (No Content).
+
+
+
+
+
 
 ## Things I want to know more about
 
