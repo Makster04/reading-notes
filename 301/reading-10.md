@@ -1,5 +1,5 @@
 
-# [Readings: Functional Programming](https://github.com/codefellows/seattle-code-301d108/tree/main/class-09)
+# [Readings: In Memory Storage](https://github.com/codefellows/seattle-code-301d108/tree/main/class-10)
 
 
 ## [Understanding the JavaScript Call Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4)
