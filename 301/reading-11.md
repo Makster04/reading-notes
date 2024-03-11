@@ -34,5 +34,5 @@
 8. **Which is more flexible - SQL or MongoDB? and why.** MongoDB is typically considered more flexible than SQL databases because it doesn't require a predefined schema. It allows for dynamic and evolving data structures within documents, making it easier to adapt to changing application requirements.
 9. **What is the disadvantage of a NoSQL database?** One disadvantage of NoSQL databases is the lack of standardized query language and ACID (Atomicity, Consistency, Isolation, Durability) properties. Additionally, NoSQL databases may not be suitable for complex transactional operations and may require more effort in data consistency and integrity management compared to SQL databases.
 
-
+## Things I want to know
 
