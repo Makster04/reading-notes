@@ -1,19 +1,16 @@
 # Readings: MongoDB and Mongoose
 
 
-## nosql vs sql
-
 
 
 ## [SQL vs NoSQL](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool) 
 1. **Fill in the chart below with five differences between SQL and NoSQL databases:**
-   | SQL                                            | NoSQL                                               |
-|------------------------------------------------|------------------------------------------------------|
-| SQL databases are table-based.                | NoSQL databases can be document-based, key-value pairs, wide-column stores, or graph databases. |
-| SQL databases use structured query language (SQL) for defining and manipulating data. | NoSQL databases use various query languages, often specific to the database type. |
-| SQL databases are generally vertically scalable, meaning you can increase the load on a single server by increasing things like CPU, RAM, or SSD. | NoSQL databases are horizontally scalable, meaning you can handle more traffic by adding more servers in the database cluster. |
-| SQL databases are best suited for complex queries and transactions. | NoSQL databases are better suited for hierarchical data storage and scenarios requiring flexibility in data models and scalability. |
-| SQL databases are ACID compliant (Atomicity, Consistency, Isolation, Durability). | NoSQL databases may sacrifice some ACID properties for better scalability and performance. |
+  | **SQL**                                        | **NoSQL**                                            |
+* SQL databases are table-based | NoSQL databases can be document-based, key-value pairs, wide-column stores, or graph databases. 
+* SQL databases use structured query language for defining and manipulating data. | NoSQL databases use various query languages, often specific to the database type. |
+* SQL databases are generally vertically scalable | NoSQL databases are horizontally scalable |
+* SQL databases are best suited for complex queries and transactions | NoSQL databases are better suited for hierarchical data storage |
+* SQL databases are ACID compliant (Atomicity, Consistency, Isolation, Durability). | NoSQL databases may sacrifice some ACID properties for better scalability and performance. |
 
 3. **What kind of data is a good fit for an SQL database?** Structured data with a predefined schema is a good fit for an SQL database. SQL databases excel in handling relational data where tables are interlinked through defined relationships.
 
