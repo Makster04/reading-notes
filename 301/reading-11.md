@@ -5,7 +5,7 @@
 
 ## [SQL vs NoSQL](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool) 
 1. **Fill in the chart below with five differences between SQL and NoSQL databases:**
-  | **SQL**                                        | **NoSQL**                                            |
+*  | **SQL**                                        | **NoSQL**                                            |
 * SQL databases are table-based | NoSQL databases can be document-based, key-value pairs, wide-column stores, or graph databases. 
 * SQL databases use structured query language for defining and manipulating data. | NoSQL databases use various query languages, often specific to the database type. |
 * SQL databases are generally vertically scalable | NoSQL databases are horizontally scalable |
