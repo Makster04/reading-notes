@@ -1,4 +1,4 @@
-# Readings: CRUD
+# [Readings: CRUD](https://github.com/codefellows/seattle-code-301d108/tree/main/class-12)
 
 ## [Status Codes Based On REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)) 
 1. **In your own words, describe what each group of status code represents:**
