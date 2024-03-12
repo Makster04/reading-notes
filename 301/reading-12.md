@@ -1,6 +1,6 @@
 # [Readings: CRUD](https://github.com/codefellows/seattle-code-301d108/tree/main/class-12)
 
-## [Status Codes Based On REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)) 
+## [Status Codes Based On REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
 1. **In your own words, describe what each group of status code represents:**
 * **100’s=** These status codes indicate informational responses and are typically used to acknowledge that the request has been received and understood.
 * **200’s=** These status codes indicate successful responses, informing the client that their request was successfully received, understood, and processed.
@@ -13,7 +13,7 @@
 5. **What code would you use if a resource used to exist but no longer does?** If a resource used to exist but no longer does, you would use status code 410, "Gone." This status indicates that the requested resource is no longer available at the server and there's no forwarding address. It's different from 404, which simply means the resource is not found.
 6. **What is the ‘Forbidden’ status code?** The "Forbidden" status code is 403. It indicates that the server understood the request but refuses to authorize it. It's often used when the client doesn't have the necessary permissions to access the requested resource.
 
-##
+## Build A REST API With Node.js, Express, & MongoDB - Quick 
 1. **Why do we need to pull our MongoDB database string out of our server and put it into our .env?** Pulling MongoDB database string into .env: This practice enhances security by keeping sensitive information like database connection strings out of code repositories, minimizing the risk of exposure.
 2. **What is middleware?** Middleware functions are functions that have access to the request object (req), the response object (res), and the next middleware function in the application’s request-response cycle. They can modify the request and response objects or end the request-response cycle.
 3. **What does app.use(express.json()) do?** This line of code configures Express to recognize incoming request objects as JSON. It parses the incoming request body, enabling easy access to JSON data within Express routes.
