@@ -1,8 +1,5 @@
 # Readings: MongoDB and Mongoose
 
-
-
-
 ## [SQL vs NoSQL](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool) 
 1. **Fill in the chart below with five differences between SQL and NoSQL databases:**
 *  | **SQL**                                        | **NoSQL**                                            |
