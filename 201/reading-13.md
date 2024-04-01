@@ -1,0 +1,7 @@
+# [Readings: Local Storage and How to Store it](https://github.com/codefellows/seattle-code-201d108/tree/main/class-13)
+## Local Storage and How To Use It On Websites
+1. **Why would a developer use local storage for a web application?** Developers use local storage for web applications to store data locally on a user's device. This allows for persisting data between sessions, enabling features like saving user preferences, caching data for offline use, and improving performance by reducing the need for frequent server requests.
+2. **What information should not be stored in local storage?** Information that should not be stored in local storage includes sensitive user data such as passwords, authentication tokens, and personally identifiable information (PII). Storing such information in local storage poses security risks as it is accessible to any script running in the same origin.
+3. **Local storage can store what type of data? How would you convert it to that type before storing?**  Local storage can store data in the form of strings. To store other types of data such as objects or arrays, they need to be converted to strings using methods like JSON.stringify() before storing. When retrieving data from local storage, it needs to be converted back to its original type using JSON.parse() or other appropriate methods. This allows for storing and retrieving complex data structures in local storage.  
+
+* ## Things I want to know more about 

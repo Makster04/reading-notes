@@ -2,12 +2,12 @@
 These are very important to learn as they're the key fundemental languages used to develop websites
 
 # Reading
-## Continue Reading Introduction to HTML
+## [React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 ### HTML Text Fundamentals. HTML Advanced Text Formatting.
-1. **Why is it important to use semantic elements in our HTML?** Enhances code readability, helps with accessibility, and improves SEO by providing meaningful structure to content.
-2. **How many levels of headings are there in HTML?** from 1-6
-3. **What are some uses for the <.sup.> and <.sub.> elements?** <.sup.> for footnotes, while <.sub.> is for chemical formulas
-4. **When using the <.abbr.> element, what attribute must be added to provide the full expansion of the term?** Use the title attribute
+1. **Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?** In React, constructor happens first, then render, and finally componentDidMount.
+2. **What is the very first thing to happen in the lifecycle of React?** The very first thing to happen in the lifecycle of React is the initialization of the component's state and props in the constructor.
+3. **Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates**
+4. **What does componentDidMount do?**
 
 ## Learn CSS
 ### How CSS Is Structured.

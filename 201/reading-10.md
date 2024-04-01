@@ -1,0 +1,12 @@
+# [Readings: Debugging](https://github.com/codefellows/seattle-code-201d108/tree/main/class-10)
+## What Went Wrong? Troubleshooting JavaScript.
+1. **Name some key differences between a Syntax Error and a Logic Error.** Syntax errors are related to the structure of code and occur when the code violates the language's rules. They prevent the code from running. On the other hand, logic errors are flaws in the code's algorithm or reasoning, causing unexpected behavior but allowing the code to run.
+2. **List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them.** Various errors encountered include syntax errors (typos or incorrect syntax), runtime errors (division by zero), and logical errors (misplaced conditions). Corrections involved debugging tools, careful code review, and iterative testing to identify and fix issues.
+3. **How will this topic continue to influence your long term goals?** Understanding and addressing errors in coding are integral to the long-term goals of becoming a proficient developer. This experience fosters problem-solving skills, code optimization, and a proactive approach to debugging, enhancing overall programming proficiency and efficiency.
+
+## The JavaScript Debugger.
+1. **How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?** The JavaScript Debugger is a tool that aids software developers in identifying and fixing issues in their code. It allows step-by-step execution, inspection of variables, and tracking code flow, making it easier to pinpoint and resolve errors. It's an essential resource for understanding code behavior during runtime.
+2. **Define what a breakpoint is.** A breakpoint is a designated point in the code where execution temporarily halts, allowing developers to inspect variables, evaluate expressions, and understand the state of the program. It facilitates controlled debugging by pausing execution at specific locations in the code.
+3. **What is the call stack?** The call stack is a data structure that keeps track of the order in which functions are called in a program. When a function is invoked, it is added to the top of the call stack, and when it completes, it is removed. The call stack helps in understanding the sequence of function calls and their relationships, aiding in debugging and tracing program flow.
+
+## Things I want to Know
