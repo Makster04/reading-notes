@@ -30,5 +30,12 @@
 * **Continuous Deployment:** Changes to the software are automatically deployed to production without manual intervention.
 3. **Explain how GitHub fits into this process assuming the listener comes from a non-technical background?** GitHub serves as a platform for hosting code repositories and collaboration. In the CI/CD process, GitHub is often integrated with CI/CD tools like Jenkins or GitHub Actions to automate tasks such as testing, building, and deploying software. It acts as a central hub for version control and collaboration among developers and other stakeholders.
   
-   
-## Things I want to know more about
+## Bookmark and Review
+* [nodeJS docs](https://nodejs.org/docs/latest/api/)
+* [npm docs](https://docs.npmjs.com/)
+* [express docs](https://expressjs.com/en/4x/api.html)
+* [http status codes](https://www.restapitutorial.com/httpstatuscodes.html)
+* [supertest](https://github.com/ladjs/supertest)
+
+## Reflection
+1. **What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-02/)?** The README summarizes learning goals and topics for a class on Express server mechanics, including routing, middleware, and testing. Students will learn Node modules, code modularization, Express middleware, HTTP status codes, and testing techniques like TDD. The README covers Express routing, request/response objects, middleware functions, and testing with libraries like supertest and Jest.
