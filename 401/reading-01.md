@@ -1,4 +1,4 @@
-# [Readings: Node Ecosystem]
+# [Readings: Node Ecosystem](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-01)
 
 ## [Reading](https://www.sitepoint.com/an-introduction-to-node-js/)
 1. **How would you describe Node to a non-technical friend?** Node.js is like a toolbox for JavaScript, but it's not limited to just making web pages interactive. It allows developers to use JavaScript to build all sorts of applications, from websites to command-line tools, by running JavaScript code outside of web browsers.
