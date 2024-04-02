@@ -39,3 +39,5 @@
 
 ## Reflection
 1. **What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-02/)?** The README summarizes learning goals and topics for a class on Express server mechanics, including routing, middleware, and testing. Students will learn Node modules, code modularization, Express middleware, HTTP status codes, and testing techniques like TDD. The README covers Express routing, request/response objects, middleware functions, and testing with libraries like supertest and Jest.
+
+## Things I want to know more about
