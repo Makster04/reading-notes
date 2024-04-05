@@ -20,4 +20,3 @@ Using Express Server:
 ## Reflection
 1. **What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-03/)?** The class README covers using Express for building REST APIs, emphasizing modular routing with Express Router, CRUD operations, Sequelize for database communication, PostgreSQL shell commands, and considerations for hosting in the cloud, including using environment variables for database connection strings.
 ## Things I want to know more about
-![401d59 Class 03](https://github.com/Makster04/reading-notes/assets/86382359/f737a018-fdf2-446a-b700-c8cf2ba8bf9c)
