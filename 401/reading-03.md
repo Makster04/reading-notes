@@ -1,4 +1,4 @@
-# [Readings: Express, NPM, TDD, CI/CD](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-02)
+# [Readings: Express REST API](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-03)
 
 ## [Review: ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 1. **Classes are a template for creating ____.** Classes are a template for creating objects.
