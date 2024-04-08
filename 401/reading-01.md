@@ -11,7 +11,7 @@
 ## Additional Questions
 1. **Looking ahead at this module’s course schedule, What do you look forward to learning?**
 * I look forward to becoming more professional on the backend 
-2. **What are your learning goals after reading and reviewing the class README?**
+2. **What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-01/)?**
 * Goals involve mastering the Node.js ecosystem, becoming proficient in writing tests for code quality assurance, and understanding the processes involved in Continuous Integration and Continuous Deployment for efficient software development workflows.
 
 
