@@ -1,4 +1,4 @@
-# [Implementation: Linked List(Allegedly Reading-05)](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-05)
+# [Implementation: Linked List (Allegedly Reading-05)](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-05)
 
 ## Explaining a Linked List (Why, What, How):
 * **WHY use a Linked List?**
