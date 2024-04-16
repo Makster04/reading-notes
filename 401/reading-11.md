@@ -3,10 +3,7 @@
 ## [Event Driven Programming](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
 1. **What native Node.js module allows us to get started with Event Driven Programming?** Node.js simplifies Event Driven Programming with its built-in events module, allowing developers to create, emit, and handle events seamlessly.
 2. **What is the value of Object Oriented Programming used in tandem with Event Driven Programming?** Object Oriented Programming (OOP) principles complement Event Driven Programming by providing a structured approach to organizing code. With OOP, developers can encapsulate behavior within objects, promoting modularity and maintainability.
-3. **Consider your knowledge of Event Driven Programming in the Web Browser, now explain to a non-technical friend how Event Driven Programming might be useful on the backend using Node.js.** Imagine you're chatting with friends on a messaging app. Each time someone sends a message, an event is triggered. On the backend, Node.js can use event-driven programming to handle these events efficiently. For example:
-* - When a message is received, Node.js can emit an event signaling the arrival of a new message.
-* - Event listeners can then process these events, perhaps by storing the message in a database, notifying other users, or performing other relevant actions.
-* - By using event-driven architecture, Node.js can handle multiple simultaneous connections and events efficiently, making it suitable for real-time applications like chat apps, streaming services, or IoT systems where responsiveness and scalability are crucial.
+3. **Consider your knowledge of Event Driven Programming in the Web Browser, now explain to a non-technical friend how Event Driven Programming might be useful on the backend using Node.js.** In the backend using Node.js, Event Driven Programming proves invaluable for handling various asynchronous tasks efficiently. For instance, in a messaging application, each new message triggers an event. Node.js can then process these events in real-time, perhaps by storing messages in a database, notifying users, or updating message counts. This architecture enables rapid responsiveness and scalability, crucial for modern web applications.
 
 ## Bookmark and Review
 **[Node docs: events](https://nodejs.org/api/events.html)**
