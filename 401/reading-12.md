@@ -16,7 +16,6 @@
 2. **When would you use Socket.IO?** You would use Socket.IO when you need real-time, bidirectional communication between a web client and server and want features like automatic reconnection, broadcasting to multiple clients, and support for various transports (WebSocket, AJAX long polling, etc.).
 3. **When would you use WebSockets?**  You would use raw WebSockets when you require a lower-level protocol for communication between clients and servers, without the additional features and abstractions provided by Socket.IO. This might be suitable for scenarios where you have specific performance or resource requirements and don't need the extra functionality provided by Socket.IO.
 
-
 ## OSI Model Explained
 1. **What are a couple of key takeaways from this video?**
 * > The OSI model breaks down network communication into seven layers, each responsible for specific functions.
@@ -31,5 +30,5 @@
 * [Socket.io Client API](https://socket.io/docs/v4/client-api)
 * [Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)
 
-Reflection
-What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-12/)? My learning goals post reviewing the Socket.io README include understanding OSI Networking Model layers, grasping TCP, UDP, and stateful networking concepts, implementing a Socket.io server for real-time messaging, and efficiently using events for message routing. Additionally, I aim to differentiate TCP and UDP usage and effectively utilize Socket.io's broadcasting capabilities for bidirectional client-server communication.
+## Reflection
+1. **What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-12/)?** My learning goals post reviewing the Socket.io README include understanding OSI Networking Model layers, grasping TCP, UDP, and stateful networking concepts, implementing a Socket.io server for real-time messaging, and efficiently using events for message routing. Additionally, I aim to differentiate TCP and UDP usage and effectively utilize Socket.io's broadcasting capabilities for bidirectional client-server communication.
