@@ -26,10 +26,10 @@
 2. **Translate the gist of this video to a non-technical friend** Imagine you want to have a conversation with someone over the phone. Before you start talking, you both need to ensure that you can hear each other clearly. The TCP handshake is like saying "Hello, can you hear me?" and waiting for a response to make sure the connection is good before you start exchanging information. Once both sides confirm they can hear each other, the conversation can begin smoothly.
 
 ## Bookmark and Review
-Socket.io Documentation
-Socket.io Server API
-Socket.io Client API
-Socket Testing Tool
+* [Socket.io Documentation](https://socket.io/docs/v4/)
+* [Socket.io Server API](https://socket.io/docs/v4/server-api)
+* [Socket.io Client API](https://socket.io/docs/v4/client-api)
+* [Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)
 
 Reflection
-What are your learning goals after reading and reviewing the class README?
+What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-12/)? My learning goals post reviewing the Socket.io README include understanding OSI Networking Model layers, grasping TCP, UDP, and stateful networking concepts, implementing a Socket.io server for real-time messaging, and efficiently using events for message routing. Additionally, I aim to differentiate TCP and UDP usage and effectively utilize Socket.io's broadcasting capabilities for bidirectional client-server communication.
