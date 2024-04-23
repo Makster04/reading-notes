@@ -11,7 +11,7 @@
 3. **Explain a “Compute Cycle” to a non-technical friend.** A compute cycle is like a worker completing a task. Imagine a factory worker assembling a product: each time they complete one assembly, that's a compute cycle.
 
 
-## [Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0))
+## [Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0)
 1. **What is Elastic Beanstalk?** Elastic Beanstalk is an AWS service that simplifies the deployment and management of applications by automatically handling the provisioning of resources.
 2. **Describe the relationship between EC2 and Elastic Beanstalk.** Elastic Beanstalk uses EC2 instances to deploy and run applications, managing the infrastructure and scaling as needed.
 3. **Name some benefits of using Elastic Beanstalk.** Benefits of using Elastic Beanstalk include simplified deployment, automatic scaling, built-in monitoring, and easy integration with other AWS services.
