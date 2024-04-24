@@ -4,16 +4,16 @@
 1. **What is Amazon S3?**
 * Amazon S3, or Amazon Simple Storage Service, is a scalable object storage service provided by Amazon Web Services (AWS). It allows users to store and retrieve any amount of data from anywhere on the web.
 2. **Name some use cases for Amazon S3.**
-a. **Data Backup and Archiving:** S3 provides durable and highly available storage, making it suitable for backup and long-term data archiving.
-b. **Static Website Hosting:** S3 can host static websites by serving static web content directly to users.
-c. **Data Lakes:** S3 can serve as the foundation for building data lakes, storing structured and unstructured data for analytics purposes.
-* **Content Distribution:** S3 integrates with AWS CloudFront to distribute content globally with low latency and high transfer speeds.
-* **Application Data Storage:** Many applications use S3 as a storage backend for storing user-generated content, media files, and application data.
+* A. **Data Backup and Archiving:** S3 provides durable and highly available storage, making it suitable for backup and long-term data archiving.
+* B. **Static Website Hosting:** S3 can host static websites by serving static web content directly to users.
+* C. **Data Lakes:** S3 can serve as the foundation for building data lakes, storing structured and unstructured data for analytics purposes.
+* D. **Content Distribution:** S3 integrates with AWS CloudFront to distribute content globally with low latency and high transfer speeds.
+* E. **Application Data Storage:** Many applications use S3 as a storage backend for storing user-generated content, media files, and application data.
 3. **Name some benefits of using Amazon S3.**
-* **Scalability:** S3 can scale to accommodate any amount of data, from gigabytes to petabytes, without manual intervention.
-* **Durability and Availability:** S3 offers 99.999999999% (11 nines) durability and 99.99% availability of objects over a given year.
-* **Security:** S3 supports fine-grained access controls, encryption at rest and in transit, and integrates with AWS Identity and Access Management (IAM) for secure data access.
-* **Cost-Effectiveness:** With S3's pay-as-you-go pricing model, users only pay for the storage they use, making it cost-effective for storing large amounts of data.
+* A. **Scalability:** S3 can scale to accommodate any amount of data, from gigabytes to petabytes, without manual intervention.
+* B. **Durability and Availability:** S3 offers 99.999999999% (11 nines) durability and 99.99% availability of objects over a given year.
+* C. **Security:** S3 supports fine-grained access controls, encryption at rest and in transit, and integrates with AWS Identity and Access Management (IAM) for secure data access.
+* D. **Cost-Effectiveness:** With S3's pay-as-you-go pricing model, users only pay for the storage they use, making it cost-effective for storing large amounts of data.
 
 ## [AWS Lambda Basics](https://www.serverless.com/aws-lambda)
 1. **What is AWS Lambda?**
