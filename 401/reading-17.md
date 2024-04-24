@@ -29,3 +29,4 @@
 1. **What are your learning goals after reading and reviewing the class [README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-17/)**
 *  My aim would be to gain a comprehensive understanding of AWS S3 and Lambda, from fundamental concepts to practical application and advanced techniques, to effectively utilize them in building scalable and efficient cloud-based applications.
 
+## Things I want to know
