@@ -4,9 +4,9 @@
 1. **What is Amazon S3?**
 * Amazon S3, or Amazon Simple Storage Service, is a scalable object storage service provided by Amazon Web Services (AWS). It allows users to store and retrieve any amount of data from anywhere on the web.
 2. **Name some use cases for Amazon S3.**
-* **Data Backup and Archiving:** S3 provides durable and highly available storage, making it suitable for backup and long-term data archiving.
-* **Static Website Hosting:** S3 can host static websites by serving static web content directly to users.
-* **Data Lakes:** S3 can serve as the foundation for building data lakes, storing structured and unstructured data for analytics purposes.
+a. **Data Backup and Archiving:** S3 provides durable and highly available storage, making it suitable for backup and long-term data archiving.
+b. **Static Website Hosting:** S3 can host static websites by serving static web content directly to users.
+c. **Data Lakes:** S3 can serve as the foundation for building data lakes, storing structured and unstructured data for analytics purposes.
 * **Content Distribution:** S3 integrates with AWS CloudFront to distribute content globally with low latency and high transfer speeds.
 * **Application Data Storage:** Many applications use S3 as a storage backend for storing user-generated content, media files, and application data.
 3. **Name some benefits of using Amazon S3.**
