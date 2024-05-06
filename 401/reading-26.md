@@ -1,4 +1,4 @@
- [Reading: Access Control (ACL)](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-26)
+# [Reading: Component Based UI (ACL)](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-26)
 
 ## [React Quick Start](https://react.dev/learn)
 1. **What are the building blocks of a React app?** The building blocks of a React app include components, which are reusable and encapsulated pieces of code.
