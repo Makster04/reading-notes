@@ -28,3 +28,5 @@
 ## Reflection
 1. **What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-27/)?** 
 * Upon reviewing the class README, my learning objectives include grasping the differences between functional and class components in React, mastering the useState() hook for state management in functional components, understanding the use of the effect hook for lifecycle events, and effectively utilizing the Hooks API to manage state and lifecycle events in functional components while adhering to conventions and best practices.
+
+## Things I want to know more about
