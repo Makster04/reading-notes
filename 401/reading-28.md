@@ -1,4 +1,4 @@
-#  [Reading: Component Lifecycle / useEffect Hook](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-06)
+#  [Reading: Component Lifecycle / useEffect Hook](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-28)
 
 ## [useEffect hook](https://react.dev/reference/react/useEffect#reference)
 1. **What is the main intended use case for the useEffect hook?**
