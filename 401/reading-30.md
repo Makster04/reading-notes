@@ -4,7 +4,7 @@
 1. **Summarize the five principles for structuring state.**
 * A. ***Single source of truth:*** Keeping all state in a single place to maintain consistency and avoid conflicts.
 * B. ***State is read-only:*** Making state immutable to prevent accidental changes and simplify tracking of updates.
-* C. ***Changes are made with pure functions:** Using pure functions to modify state ensures predictability and facilitates testing.
+* C. ***Changes are made with pure functions:*** Using pure functions to modify state ensures predictability and facilitates testing.
 * D. ***State changes are batched:*** Grouping state changes together improves performance and reduces unnecessary re-renders.
 * E. ***Immutable updates:*** Creating new copies of state objects instead of mutating them directly ensures data integrity and facilitates debugging.
 
