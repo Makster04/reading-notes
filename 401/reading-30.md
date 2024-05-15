@@ -1,4 +1,4 @@
-#  [Reading: Advanced State with Reducers](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-31)
+#  [Reading: Context API](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-31)
 
 ## [Choosing the State Structure](https://react.dev/learn/choosing-the-state-structure))
 1. **Summarize the five principles for structuring state.**
