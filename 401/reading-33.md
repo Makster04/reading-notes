@@ -1,4 +1,4 @@
-#  [Reading: Login and Auth] (https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-33)
+#  [Reading: Login and Auth](https://github.com/codefellows/seattle-code-javascript-401d59/tree/main/class-33)
 
 ## [What is Role Based Access Control (RBAC)](https://www.digitalguardian.com/blog/what-role-based-access-control-rbac-examples-benefits-and-more)
 1. **What is Role Based Access Control (RBAC)?** RBAC is a security model that restricts access based on user roles within an organization. Permissions are assigned to roles, not individuals, simplifying the management of user permissions, particularly in large organizations.
