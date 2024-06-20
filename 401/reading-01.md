@@ -17,4 +17,4 @@
 
 ## Things I want to know more about
 
-
+![image](https://github.com/Makster04/reading-notes/assets/86382359/f79e28fd-8e85-4094-9f66-d545f4f5e427)
